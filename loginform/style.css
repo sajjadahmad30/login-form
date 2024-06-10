@@ -1,0 +1,33 @@
+
+body{
+    color: white;
+    /* background:linear-gradient(blue,pink); */
+    background-color:rgb(29, 29, 58) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+input{
+    border-radius: 8px;
+    height: 24px;
+}
+img{
+    color: white;
+   margin: -24px;
+   padding-bottom: 18px;
+    width: 22px;
+}
+button{
+    width: 114%;
+    border-radius:8px;
+    height: 28px;
+    background-color: brown;
+    font-family: fantasy;
+    font-size: larger;
+    color: white;
+    
+}
+fieldset{
+    padding-right: 40px;
+}
+
